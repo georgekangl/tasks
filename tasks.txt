@@ -1,0 +1,365 @@
+
+Kang Lou Log
+================================================================================
+Week 2
+1/9/2017
+Will Do:
+//-Merge sim -restart to latest UXE/VXE
+-Handle parasoft violation
+//-Submit H1B Materials
+-[Leetcode] 477. Total Hamming Distance
+-[Leetcode] 475. Heaters
+//-Stock Purchase before Jan 15th
+-A getaway before Feb 3rd.
+Have Done:
+-Merge sim -restart to latest UXE/VXE
+
+1/10/2017
+Will Do:
+//-Learn Commands: save, restart
+//-Run system C design: ~eugene/usr/design/sc2
+Have Done:
+-Learned Commands: save, restart
+-Run SystemC design: ~eugene/usr/design/sc2.
+Bugs found in SystemC, reported to SystemC Team as a CCR 1689958
+-Asked AE to request an official patch
+
+1/11/2017
+Will Do:
+//-Submit H1B Materials
+//-Merge SDL reset to sim -restart
+//-Verify gnmnotify error of sim -restart in VXE1511
+//-Refresh skillset of locating a bug of a problem
+-Summary of implementation of sim -restart
+Have Done:
+-Refresh skillset of locating a bug of a problem
+-Merge SDL reset to sim -restart
+-Verify gnmnotify error of sim -restart in VXE1511
+
+1/12/2017
+Will Do:
+//-Submit H1B Materials
+-Summary of implementation of sim -restart
+-Merge sim -restart from VXE1511 to VXE161
+//-Title Renewal
+//-Driver License Renewal
+-[Leetcode] 477. Total Hamming Distance
+-[Leetcode] 475. Heaters
+//-Stock Purchase before Jan 15th
+-A getaway before Feb 3rd.
+-Nordstrom Credit Card
+Have Done:
+-Title Renewal
+-Submit H1B Materials
+
+1/13/2016
+Will Do:
+//-Driver License Renewal
+-suspend/resume in prompt to free hardware resources
+//-Investigate previous usage and implementation of suspend/resume.
+-Understand customers' requirement and come up an idea of developing.
+-Summary of implementation of sim -restart
+-Merge sim -restart from VXE1511 to VXE161
+Have Done:
+-Driver License Renewal
+-Investigate previous usage and implementation of suspend/resume.
+--------------------------------------------------------------------------------
+Week 3
+1/16/2016
+Will Do:
+-Implement a background threading to check if a file existed.
+-Summary of implementation of sim -restart
+-Merge sim -restart from VXE1511 to VXE161
+-[Leetcode] 477. Total Hamming Distance
+-[Leetcode] 475. Heaters
+//-Nordstrom Credit Card
+-A getaway before Feb 3rd.
+Have Done:
+-Nordstrom Credit Card
+1/17/2016
+Will Do:
+//-Implement a background threading to check if a file existed.
+//-Investigate the way of suspending xeDebug
+//-Implement the file-checking and suspend in the right place.
+-Summary of implementation of sim -restart
+-Merge sim -restart from VXE1511 to VXE161
+-[Leetcode] 477. Total Hamming Distance
+-[Leetcode] 475. Heaters
+-A getaway before Feb 3rd.
+Have Done:
+-Investigate the way of suspending xeDebug
+-Implement a background threading to check if a file existed.
+-Implement the file-checking and suspend in the right place.
+
+1/18/2016
+Will Do:
+//-Debug the infiniband error when resuming xeDebug from file
+//-Implement a Environment Variable checking in SuspendProc
+//-Make this in the same place of suspend and resume commands, coCmd.C
+	touch ./tmp/suspend and resume from command as a pair can be OK as well.
+-Summary of implementation of sim -restart
+-Merge sim -restart from VXE1511 to VXE161
+-[Leetcode] 477. Total Hamming Distance
+-[Leetcode] 475. Heaters
+//-A getaway before Feb 3rd.
+Have Done:
+-Debug the infiniband error when resuming xeDebug from file
+-Implement a Environment Variable checking in SuspendProc
+-Make this in the same place of suspend and resume commands, coCmd.C
+touch ./tmp/suspend and resume from command as a pair can be OK as well.
+-A getaway before Feb 3rd.
+
+1/19/2017
+Will Do:
+//-Record suspend/resume by command&file to log
+//-move SetSuspendTimer to corunInt.h
+-Summary of implementation of sim -restart
+-Merge sim -restart from VXE1511 to VXE161
+-[Leetcode] 477. Total Hamming Distance
+-[Leetcode] 475. Heaters
+Have Done:
+-Record suspend/resume by command&file to log
+-move SetSuspendTimer to corunInt.h
+
+1/20/2017
+Will Do:
+-Summary of implementation of sim -restart
+//-Merge sim -restart from VXE1511 to VXE161 and Check into patch
+-xeConnect: support suspend command
+-[Leetcode] 477. Total Hamming Distance
+-[Leetcode] 475. Heaters
+Have Done:
+-Merge sim -restart from VXE1511 to VXE161 and Check into patch
+
+1/23/2017
+Will Do:
+//-xeConnect: support suspend command
+-Summary of implementation of sim -restart
+-[Leetcode] 477. Total Hamming Distance
+-[Leetcode] 475. Heaters
+
+Have Done:
+-xeConnect: support suspend command
+
+1/24/2017
+Will Do:
+//-Request code review for Eugene.
+-Summary of implementation of sim -restart
+-[Leetcode] 477. Total Hamming Distance
+-[Leetcode] 475. Heaters
+Have Done:
+-Request code review for Eugene.
+
+1/25/2017
+Will Do:
+-Summary of implementation of sim -restart
+-Document of sim command with option -open -close -restart
+-[Leetcode] 477. Total Hamming Distance
+-[Leetcode] 475. Heaters
+Have Done:
+
+1/26/2017
+Will Do:
+//-Testing save command of a SystemC Design with IUS 15.22
+-Summary of implementation of sim -restart
+-Document of sim command with option -open -close -restart
+-[Leetcode] 477. Total Hamming Distance
+-[Leetcode] 475. Heaters
+Have Done:
+-Testing save command of a SystemC Design with IUS 15.22
+
+1/27/2017
+Will Do:
+-Understand implementation of host command, consider reconstruct the structure along with sim command
+-Summary of implementation of sim -restart
+-Document of sim command with option -open -close -restart
+-[Leetcode] 477. Total Hamming Distance
+-[Leetcode] 475. Heaters
+//-C++ Homework
+-Apt contract renew
+Have Done:
+-C++ Homework
+
+1/30/2017
+Will Do:
+-Understand implementation of host command, consider reconstruct the structure along with sim command
+-Summary of implementation of sim -restart
+-Document of sim command with option -open -close -restart
+-[Leetcode] 477. Total Hamming Distance
+-[Leetcode] 475. Heaters
+Have Done:
+
+1/31/2017
+Will Do:
+-Understand implementation of host command, consider reconstruct the structure along with sim command
+-Summary of implementation of sim -restart
+-Document of sim command with option -open -close -restart
+-[Leetcode] 477. Total Hamming Distance
+-[Leetcode] 475. Heaters
+Have Done:
+
+2/1/2017
+Will Do:
+-Understand implementation of host command, consider reconstruct the structure along with sim command
+-Summary of implementation of sim -restart
+-Document of sim command with option -open -close -restart
+Have Done:
+
+2/2/2017
+Will Do:
+//-Refresh knowledge of Lex and Yacc
+//-Understand how the sdl parser is implemented using Lex and Yacc
+Have Done:
+-Refresh knowledge of Lex and Yacc
+-Understand how the sdl parser is implemented using Lex and Yacc
+
+2/3/2017
+Will Do:
+-Understand implementation of host command, consider reconstruct the structure along with sim command
+-Summary of implementation of sim -restart
+//-Document of sim command with option -open -close -restart(started from understanding the whole flow of commands for real design, design ., host .)
+//-Document of suspend/resume remotely
+-clear with Lex and Yacc and implementation in xeDebug's SDL
+-Machine Learning Week 1
+//-C++ Homework
+Have Done:
+
+2/6/2017
+Will Do:
+Have Done:
+-Talked with Eugene: three projects
+-Planed: save/restart command in SystemC Design
+-Planed: SDL-related bug in VVM(not understood yet)
+-Planed: xeClient: coSocket.h header file
+
+2/7/2017
+Will Do:
+//-Learn several C++11 new features: Variadic arguments, variadic template
+//-xeClient: coSocket.h header file
+Have Done:
+-Learned several C++11 new features: Variadic arguments, variadic template,
+play with these feature with code snippets: /home/kangl/playground/c++/c++11_new_feature
+
+2/8/2017
+Will Do:
+-SDL-related bug in VVM(not understood yet), read CCR, understand related source code.
+//-understand socket communication: xeClient, coSocket.h header file
+Have Done:
+-understand socket communication: xeClient, coSocket.h header file
+-learned what VVM is and how SDL implemented in VVM
+-investigated the CCR: 1183284 Capability to export SDL trigger condition on Palladium to simulator breakpoint
+
+2/9/2017
+Will Do:
+//-Develop a small implementation talking to xeDebug
+Have Done:
+-Modified coSocket.h file to make it independent of qt.h by creating socketException class.
+-Developed a small application to talk to xeDebug by socket in C code.
+-Basically understood how xeserver and xeclient implemented in Tcl code.
+
+2/10/2017
+Will Do:
+//-Send the socket communication test case to AE.
+//-Overloading malloc() and test it.
+Background: Some customers have the problem of memory coruption, as malloc() initilized random value for memory, this makes it hard to debug.
+Have Done:
+-Sent the socket communication test case to AE.
+
+2/13/2017
+Will Do:
+//-functional spec about sim -restart
+//-SDL replication
+//-smart pointer: unique_ptr & shared_ptr
+//-malloc overloading
+//-SDL counter
+//-Second round of enhancing Yacc and Lex knowledge
+Have Done:
+
+2/14/2017
+Will Do:
+//-Reading User Guide: Controlling the run with SDL
+//-SDL replication
+//-SDL counter
+//-Second round of enhancing Yacc and Lex knowledge
+//-smart pointer: unique_ptr & shared_ptr
+//-malloc overloading
+//-functional spec about sim -restart
+-understand tcl code of xeserver and xeclient
+-Machine Learning Course
+Have Done:
+-Reading User Guide: Controlling the run with SDL
+
+2/15/2017
+Will Do:
+Have Done:
+
+2/16/2017
+Will Do:
+Fix CCR 1706121: VXE1611 Additional Warning for IP Encryption: Unable to open log file (null)
+Have Done:
+Fixed CCR 1706121: VXE1611 Additional Warning for IP Encryption: Unable to open log file (null)
+
+2/17/2017
+Will Do:
+-SDL replication
+Have Done:
+//-SDL replication
+
+2/21/2017
+Will Do:
+-Learn cadence TBA(transaction-based acceleration)
+-functional spec about sim -restart
+-smart pointer: unique_ptr & shared_ptr
+-malloc overloading
+-SDL counter
+-Second round of enhancing Yacc and Lex knowledge
+-Understand implementation of host command, consider reconstruct the structure along with sim command
+-Summary of implementation of sim -restart
+-save/restart command in SystemC Design
+-summarize how to start xeDebug from irun command(How irun generate option for ncsim and xedebug)
+Have Done:
+
+2/22/2017 - 2/24/2017
+Will Do:
+-Learn cadence TBA(transaction-based acceleration)
+-functional spec about sim -restart(for companywide)
+-Summary of implementation of sim -restart(for myself)
+
+//-Second round of enhancing Yacc and Lex knowledge
+-SDL counter
+
+-smart pointer: unique_ptr & shared_ptr
+-malloc overloading
+
+-Learn basic verilog syntax and logic
+-Understand implementation of host command, consider reconstruct the structure along with sim command
+-save/restart command in SystemC Design
+-summarize how to start xeDebug from irun command(How irun generate option for ncsim and xedebug)
+
+Have Done:
+-Second round of enhancing Yacc and Lex knowledge
+
+2/27/2017
+Will Do:
+-Learn cadence TBA(transaction-based acceleration)
+//-functional spec about sim -restart(for companywide)
+-Summary of implementation of sim -restart(for myself)
+-SDL counter
+
+-smart pointer: unique_ptr & shared_ptr
+-malloc overloading
+-callback example code
+
+-Learn basic verilog syntax and logic
+-Understand implementation of host command, consider reconstruct the structure along with sim command
+-save/restart command in SystemC Design
+-summarize how to start xeDebug from irun command(How irun generate option for ncsim and xedebug)
+
+Have Done:
+-Submitted functional spec about sim -restart
+
+
+================================================================================
+1.体验生活，发现痛点。
+2.培养快速学习技术的能力，时刻做好准备。
+3.GUI of our products is very old and not friendly, standing in the point of UX/UI, re-designing the usibility and interactive logic will be needed.
